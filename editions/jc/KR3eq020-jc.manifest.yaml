@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3eq020/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq020/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上池雜說
+  identifiers:
+    krp: KR3eq020
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq020.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq020_000-jc.yaml, hash: 'sha256:795f7eb002028977a7799b55021efd7c6636715063a16a19f21f0e115849f8e1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq020_000-jc.markers.yaml, hash: 'sha256:60e8888ff15622d2918b94aeb327e92a92908a3fc7858a5946063237e7fb8d7a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq020_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 6190
+  label: 正文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq020_jc_000-d2d58
+    span:
+    - body
+    - 3476
+    - 6190
+  label: 附經目屢驗良方
+  type: section
+  level: 2
+hash: sha256:b7428c8dd097538a2b0a0489de1d1e6c48939c4318fa97fbb724e8ade9041fa6

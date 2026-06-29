@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3eq020/v1
+canonical_location: https://kanripo.org/bkk/KR3eq020/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 上池雜說
+  identifiers:
+    krp: KR3eq020
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq020.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq020_000.yaml, hash: 'sha256:5247370474bd1cae5dc9a696b590421aaa99d373fd1bc72a5b73479a9b39d8ed'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq020_000.markers.yaml, hash: 'sha256:e2354d6f475377e5c384db41954e3a8f879c04a3b7aa561909a111d992a2d021'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq020_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 6190
+  label: 正文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq020_jc_000-d2d58
+    span:
+    - body
+    - 3476
+    - 6190
+  label: 附經目屢驗良方
+  type: section
+  level: 2
+hash: sha256:017b0c6d45bb7aaba0c9c939e16ac845ec25289071e387c0648dde3b5c79f849
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
