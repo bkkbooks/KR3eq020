@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq020_000.yaml, hash: 'sha256:5247370474bd1cae5dc9a696b590421aaa99d373fd1bc72a5b73479a9b39d8ed'}
+  - {seq: 0, filename: KR3eq020_000.yaml, hash: 'sha256:795f7eb002028977a7799b55021efd7c6636715063a16a19f21f0e115849f8e1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq020_000.markers.yaml, hash: 'sha256:e2354d6f475377e5c384db41954e3a8f879c04a3b7aa561909a111d992a2d021'}
+  - {seq: 0, role: markers, filename: assets/KR3eq020_000.markers.yaml, hash: 'sha256:ab0ea6825048281667fad57168f595500ff90a711399644035a0abc7fcaabf3b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,7 +41,4 @@ table_of_contents:
   label: 附經目屢驗良方
   type: section
   level: 2
-hash: sha256:017b0c6d45bb7aaba0c9c939e16ac845ec25289071e387c0648dde3b5c79f849
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:55275016e8c2f9389c2d329b8a21b1fd6cad736afa353a928acda24d78887382
