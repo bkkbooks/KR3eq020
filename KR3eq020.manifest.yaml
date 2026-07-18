@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eq020_000.yaml, hash: 'sha256:da47fe69096021de17e424c871580835babdf3aec95ff5cc4402d2e3e2223bd3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq020_000.markers.yaml, hash: 'sha256:19d0c6e08110e7abf9d9ff55f664fecc1af784a37a858fcf3ac9567bce0a4db6'}
+  - {seq: 0, role: markers, filename: assets/KR3eq020_000.markers.yaml, hash: 'sha256:bbd449cb075619b787fb9debb86bf20d178f2f46d3cc3d04d6045eae1e15ae07'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,7 +41,7 @@ table_of_contents:
   label: 附經目屢驗良方
   type: section
   level: 2
-hash: sha256:37659c56ac73aa2ae2bfc5b437eb8e5861ccfe182e4eb8cadbab391588b53c14
+hash: sha256:362516aca1040200d2b30d6e0797b385b9f13586ee299cacc2c8d492a23a8aa6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

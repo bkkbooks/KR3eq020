@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eq020_000-jc.yaml, hash: 'sha256:795f7eb002028977a7799b55021efd7c6636715063a16a19f21f0e115849f8e1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq020_000-jc.markers.yaml, hash: 'sha256:60e8888ff15622d2918b94aeb327e92a92908a3fc7858a5946063237e7fb8d7a'}
+  - {seq: 0, role: markers, filename: assets/KR3eq020_000-jc.markers.yaml, hash: 'sha256:f1d66cf0f8c0927e1407848f2b9836a4f2cb8080d23659bc0343eb2743c3e6f1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 附經目屢驗良方
   type: section
   level: 2
-hash: sha256:b7428c8dd097538a2b0a0489de1d1e6c48939c4318fa97fbb724e8ade9041fa6
+hash: sha256:afc20d13f96fc982407c396465cae38a01666a0bfbf8e5c1a6663255de2be583
